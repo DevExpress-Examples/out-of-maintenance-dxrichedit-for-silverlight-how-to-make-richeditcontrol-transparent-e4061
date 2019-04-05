@@ -4,7 +4,7 @@
 * [RichEditTransparentSLTestPage.aspx](./CS/RichEditTransparentSL.Web/RichEditTransparentSLTestPage.aspx) (VB: [RichEditTransparentSLTestPage.aspx](./VB/RichEditTransparentSL.Web/RichEditTransparentSLTestPage.aspx))
 * [Silverlight.js](./CS/RichEditTransparentSL.Web/Silverlight.js) (VB: [Silverlight.js](./VB/RichEditTransparentSL.Web/Silverlight.js))
 * [MainPage.xaml](./CS/RichEditTransparentSL/MainPage.xaml) (VB: [MainPage.xaml](./VB/RichEditTransparentSL/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/RichEditTransparentSL/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/RichEditTransparentSL/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/RichEditTransparentSL/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/RichEditTransparentSL/MainPage.xaml.vb))
 <!-- default file list end -->
 # DXRichEdit for Silverlight: How to make RichEditControl transparent
 
